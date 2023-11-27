@@ -1,0 +1,11 @@
+pandas
+numpy
+transformers
+scikit-learn
+torch
+tqdm
+fastapi
+uvicorn
+ipykernel
+ipywidgets
+python-multipart
