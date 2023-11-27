@@ -7,6 +7,7 @@ This project demonstrates a simple web application for medical text classificati
 Please run the below command to clone the repository to local and then change directory as mentioned below
 
 git clone https://github.com/Shivamjohri247/med-text-classify.git
+
 cd med-text-classify
 
 ## Model weights
