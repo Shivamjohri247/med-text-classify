@@ -2,6 +2,13 @@
 
 This project demonstrates a simple web application for medical text classification using FastAPI and BERT (Bidirectional Encoder Representations from Transformers). The web application allows users to input medical text, and the BERT model predicts the corresponding class.
 
+##Repository cloning to local environment
+
+Please run the below command to clone the repository to local and then change directory as mentioned below
+
+git clone https://github.com/Shivamjohri247/med-text-classify.git
+cd med-text-classify
+
 ## Model weights
 
 Model weights are hosted in the path below which needs to be downloaded and stored in model_artifacts folder
